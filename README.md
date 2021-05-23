@@ -17,3 +17,8 @@ Computer Graphics 2021 -- Dzherhalova Renata -- FAM KP 82
 [Lab 3 PR](https://github.com/le-kalmique/graphics-course/pull/3/files)
 
 ![Result](https://github.com/le-kalmique/graphics-course/blob/lab3/lab3/result.gif)
+
+## Lab 4
+[Lab 4 PR](https://github.com/le-kalmique/graphics-course/pull/4/files)
+
+![Result](https://github.com/le-kalmique/graphics-course/blob/lab4/lab4/result.gif)
