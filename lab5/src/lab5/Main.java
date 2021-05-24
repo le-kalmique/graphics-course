@@ -181,7 +181,7 @@ public class Main extends JFrame implements ActionListener, KeyListener {
     @Override
     public void keyPressed(KeyEvent e) {
         int key = e.getKeyCode();
-        float delta = 0.1f;
+        float delta = 0.05f;
 
         switch (key) {
             case KeyEvent.VK_LEFT: {
