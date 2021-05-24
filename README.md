@@ -35,3 +35,11 @@ Computer Graphics 2021 -- Dzherhalova Renata -- FAM KP 82
 3д Кубік Рубіка, його рух по Х та по У
 
 ![Result](https://github.com/le-kalmique/graphics-course/blob/lab4/lab4/result.gif)
+
+## Lab 5
+[Lab 5](https://github.com/le-kalmique/graphics-course/tree/main/lab5)
+
+Модель крісла, його рух та оберти за  x-, y-, z-координатами.
+Управління: ↑, →, ←, ↓, -, +, W, S, A, D, Q, E
+
+![Result](https://github.com/le-kalmique/graphics-course/blob/main/lab5/result.gif)
