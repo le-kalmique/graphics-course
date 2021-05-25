@@ -43,3 +43,12 @@ Computer Graphics 2021 -- Dzherhalova Renata -- FAM KP 82
 Управління: ↑, →, ←, ↓, -, +, W, S, A, D, Q, E
 
 ![Result](https://github.com/le-kalmique/graphics-course/blob/main/lab5/result.gif)
+
+## Lab 6
+[Lab 6](https://github.com/le-kalmique/graphics-course/tree/main/lab6)
+
+Модель гелікоптера.
+До коду додані анімація гвинтів, анімації руху гелікоптера за прямою та навколо себе (для демонстрації моделі). За допомогою миші можна рухати модель.
+
+![Result1](https://github.com/le-kalmique/graphics-course/blob/main/lab6/result1.gif)
+![Result2](https://github.com/le-kalmique/graphics-course/blob/main/lab6/result2.gif)
